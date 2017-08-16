@@ -9,7 +9,7 @@ name: analogicalnexus
 description: Roboticist
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/analogicalnexus/analogicalnexus.github.io/blob/master/resource/analogicalnexus_logo.png
+avatar: https://github.com/analogicalnexus/blog/blob/master/images/analogicalnexus_logo.png
 
 #
 # Flags below are optional
@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook: mpc159
   flickr:
-  github: analogicalnexus/blog
+  github: analogicalnexus
   instagram:
   linkedin: cmparam
   pinterest:
