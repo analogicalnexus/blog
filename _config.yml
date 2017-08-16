@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Chethan Mysore Parameshwara
+name: analogicalnexus
 
 # Short bio or description (displayed in the header)
 description: Roboticist
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/analogicalnexus/analogicalnexus.github.io/blob/master/resource/PROFILE_PIC.jpg
+avatar: https://github.com/analogicalnexus/analogicalnexus.github.io/blob/master/resource/analogicalnexus_logo.png
 
 #
 # Flags below are optional
@@ -19,14 +19,14 @@ avatar: https://github.com/analogicalnexus/analogicalnexus.github.io/blob/master
 footer-links:
   dribbble:
   email:
-  facebook:
+  facebook:mpc159
   flickr:
-  github: barryclark/jekyll-now
+  github:analogicalnexus/blog
   instagram:
-  linkedin:
+  linkedin:cmparam9
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
