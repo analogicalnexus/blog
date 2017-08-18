@@ -85,3 +85,5 @@ exclude:
   - README.md
   - CNAME
   - ["*.Rmd"]
+
+theme: jekyll-theme-architect
