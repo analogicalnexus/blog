@@ -3,4 +3,6 @@ layout: post
 title: Outliers (Book Review) 
 ---
 
-![_config.yml]({{ site.baseurl }}/images/outliers.png)
+![_config.yml]({{ site.baseurl }}/images/outliers.jpg)
+
+
